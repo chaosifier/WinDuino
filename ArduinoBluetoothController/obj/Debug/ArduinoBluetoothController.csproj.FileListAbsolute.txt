@@ -1,0 +1,11 @@
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\bin\Debug\ArduinoBluetoothController.exe.config
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\bin\Debug\ArduinoBluetoothController.exe
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\bin\Debug\ArduinoBluetoothController.pdb
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\obj\Debug\ArduinoBluetoothController.csprojResolveAssemblyReference.cache
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\obj\Debug\ArduinoBluetoothController.Form1.resources
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\obj\Debug\ArduinoBluetoothController.Properties.Resources.resources
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\obj\Debug\ArduinoBluetoothController.csproj.GenerateResource.Cache
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\obj\Debug\ArduinoBluetoothController.exe
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\obj\Debug\ArduinoBluetoothController.pdb
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+G:\GoogleDrive\Visual Studio Projects\ArduinoBluetoothController\ArduinoBluetoothController\bin\Debug\InTheHand.Net.Personal.xml
